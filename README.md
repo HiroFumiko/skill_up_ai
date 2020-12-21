@@ -1,3 +1,3 @@
 # mykaggle
 
-- kickstater
+- Skill Up AI インターンML課題~kickstater~
